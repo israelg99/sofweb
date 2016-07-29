@@ -1,18 +1,20 @@
 Sofweb
 ===============
-Sofweb is an open-source solution for developing sleek cross-platform applications.
+Sofweb is an open-source solution for developing sleek cross-platform desktop applications.
 
-It combines the best tools and frameworks, solves the common issues with connecting them and provides a robust solution to support daily development needs.
+It combines the best tools and frameworks, solves the common issues with connecting them and provides a *robust* solution to support daily development needs.
 
 If you want to build sleek cross-platform applications by writing one codebase which runs anywhere, this is a solid starting point.
 
 Sofweb mainly uses web-technologies, check the technologies list below for more information.
 
+For awesome web-development solution starting points by good friend [**@AngularClass**](https://github.com/AngularClass), check the list below.
+
 Quick-start
 =============
 Clone the repository: `git clone https://github.com/israelg99/Sofweb.git`
 
-Move into it `cd Sofweb`
+Move into it: `cd Sofweb`
 
 Install all needed packages: `npm install`
 
@@ -34,7 +36,7 @@ First it uses the `config/webpack/webpack.config.js` to determine which config t
 
 The appropriate config merges `webpack.commong.js` and deletes `src/build`(production) or `src/dist`(development) and then it does the standard packing.
 
-Lastly in production mode your file names are hashed and content is uglified.
+Lastly in production mode your file names are hashed and content is *uglified*(in a good way).
 
 
 Technologies
@@ -88,3 +90,11 @@ Tasks
 Maintainers
 ===============
 Israel Gilyadov <israelg99@gmail.com>
+
+Great web-development solutions 
+====================================
+[**@AngularClass**](https://github.com/AngularClass) has done an amazing job with this:
+
+[Angular2-Webpack Starter](https://github.com/AngularClass/angular2-webpack-starter)
+
+[NG6-Starter](https://github.com/AngularClass/NG6-starter)
