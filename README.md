@@ -6,7 +6,7 @@ It combines the best tools and frameworks, solves the common issues with connect
 
 If you want to build sleek cross-platform applications by writing one codebase which runs anywhere, this is a solid starting point.
 
-Sofweb mainly uses Web-Technologies, check the technologies lists below for more information.
+Sofweb mainly uses Web-Technologies, check the technologies list below for more information.
 
 Technologies
 ===============
