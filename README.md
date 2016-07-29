@@ -1,6 +1,7 @@
 Sofweb
 ===============
 Sofweb is the best solution for developing sleek cross-platform applications.
+
 It combines the best tools and frameworks, solves the common issues with connecting them and provides a robust solution to support daily development needs.
 
 If you want to build sleek cross-platform applications by writing one codebase which runs anywhere, this is a solid starting point.
