@@ -1,15 +1,11 @@
 Sofweb
 ===============
+Sofweb is the best solution for developing sleek cross-platform applications.
+It combines the best tools and frameworks, solves the common issues with connecting them and provides a robust solution to support daily development needs.
 
-Web-Technologies combined for an awesome sleek application, that is truly cross-platform development with only once code base which you write once and run everywhere.
+If you want to build sleek cross-platform applications by writing one codebase which runs anywhere, this is a solid starting point.
 
-Worrying about low-level? Electron is included with Sofweb and enables us to do almost any low-level applications.
-
-**Web-Technologies is used for cross-platform webs, desktop and mobile applications! eventually, all applications will be built with web-technologies because it gives us guaranteed compatibility while staying sleek and beautiful**
-
-Developers
-===============
-Israel Gilyadov <israelg99@gmail.com>
+Sofweb mainly uses Web-Technologies, check the technologies lists below for more information.
 
 Technologies
 ===============
@@ -51,3 +47,7 @@ Technologies
 
 ## Testing
 *To be updated*
+
+Developers
+===============
+Israel Gilyadov <israelg99@gmail.com>
