@@ -14,12 +14,18 @@ Israel Gilyadov <israelg99@gmail.com>
 Technologies
 ===============
 
-## JavaScript
-## TypeScript
+**JavaScript**
+
+**TypeScript**
+
 ------------
-## Angular 2
-## Electron
+
+**Angular 2**
+
+**Electron**
+
 ------------
+
 ## Webpack
 - DevServer
 - CommonsChunkPlugin
@@ -32,10 +38,16 @@ Technologies
 - ExtractTextPlugin
 - UglifyJsPlugin
 - CleanWebpackPlugin
+
 ------------
-## Bootstrap
-## SASS SCSS
-## HTML5
+
+**Bootstrap**
+
+**SASS SCSS**
+
+**HTML5**
+
 ------------
+
 ## Testing
 *To be updated*
