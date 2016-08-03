@@ -83,9 +83,13 @@ Technologies
 Tasks
 =======
 ### Testing and coverage (partially working for me locally)
-- [ ] Karma
-- [ ] Jasmine
-- [ ] Istanbul
+- [X] Karma
+- [X] Jasmine
+- [X] Istanbul
+- [X] TSlint
+- [X] Codelyzer
+- [X] PhantomJS
+- [X] Webpack.test.config
 
 Maintainers
 ===============
