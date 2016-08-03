@@ -76,6 +76,18 @@ const common = {
         new webpack.NoErrorsPlugin()
     ],
 
+    /**
+     * Static analysis linter for TypeScript advanced options configuration
+     * Description: An extensible linter for the TypeScript language.
+     *
+     * See: https://github.com/wbuchwalter/tslint-loader
+     */
+    tslint: {
+        emitErrors: true,
+        failOnHint: false,
+        resourcePath: 'src'
+    },
+
     node: {
         global: 'window',
         crypto: 'empty',
