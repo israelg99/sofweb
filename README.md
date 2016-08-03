@@ -18,6 +18,19 @@ Move into it: `cd Sofweb`
 
 Install all needed packages: `npm install`
 
+## Folder Structure (Important!)
+`src/app` - Your Angular2 files.
+
+`src/window` - Your Electron files.
+
+`spec/**.ts` - Your Jasmine files here, you can have as many sub-folders as you want.
+
+`src/app/bootstrap/bootstrap.ts` - Your entry bootstrap point, you must have this file!
+
+`src/window/index.html` - Your main html file, you must have this file!
+
+`src/window/index.js` - Your Electron js file, you must have this file!
+
 You're ready to roll.
 
 Scripts
@@ -29,6 +42,8 @@ Scripts
 `npm run production` - Runs the webpack in production mode, outputs everything into `src/build`
 
 `npm run electron` - Runs electron, by default it calls `src/dist/index.js`
+
+`npm test` - Runs the Karma tests with Jasmine on PhantomJS with TSlint, Istanbul for coverage and more...
 
 ### Brief explanation on the webpack configs
 
