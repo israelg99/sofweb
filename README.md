@@ -82,7 +82,7 @@ Technologies
 
 Tasks
 =======
-### Testing and coverage (partially working for me locally)
+### Testing and coverage ~~(partially working for me locally)~~ Implemented!
 - [X] Karma
 - [X] Jasmine
 - [X] Istanbul
