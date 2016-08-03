@@ -8,7 +8,7 @@
     "webpack-watch": "npm run webpack --watch",
     "webpack-server": "cross-env PORT=8080 cross-env HOST=localhost webpack-dev-server --config config/webpack/webpack.config.js --inline",
     "production": "cross-env NODE_ENV=production npm run webpack",
-    "test": "cross-env NODE_ENV=test npm run karma config/karma/karma.conf.js",
+    "test": "cross-env NODE_ENV=test karma start config/karma/karma.conf.js",
     "electron": "electron .",
     "postinstall": "typings install",
     "typings": "typings"
