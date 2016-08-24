@@ -1,6 +1,6 @@
 'use strict';
 
-/* This is a mock of the file, the practical one is in the dist folder */
+/* This file gets copied into the dist folder, treat paths accordingly */
 
 
 const electron = require('electron');
